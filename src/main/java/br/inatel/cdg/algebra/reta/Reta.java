@@ -1,7 +1,7 @@
 package br.inatel.cdg.algebra.reta;
 
 public class Reta {
-
+//felipe siqueira mohallem cellet
     private Ponto p1,p2;
 
     public Reta(Ponto p1, Ponto p2){
